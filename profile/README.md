@@ -1,18 +1,18 @@
 # 무선 네트워크 AP(Access Point) 대상 보안 진단 도구
-
-## Information
+## WAVE: Wireless AP Vulnerability Examinatior
 ### 팀 구성
 <div align="center">
   
 |[윤지현](https://github.com/jhYun505)|[박근우](https://github.com/orgs/CNU-WAVE/people/emptiness123)|[박시준](https://github.com/orgs/CNU-WAVE/people/CanSJun)
 |:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/81208791?v=4" width="120">|<img src="https://avatars.githubusercontent.com/u/37283262?v=4" width="120">|<img src="https://avatars.githubusercontent.com/u/98388286?v=4" width="120">|
 |팀장|팀원|팀원|
-
+  
 </div>
 
 ### 프로젝트 개요
 - 무선 네트워크 보안 방식 중 WPA2(Wi-Fi Protected Access II)의 취약점 KRACK에 취약한 AP를 탐색하는 tool
-- 폐쇄망에 있는 AP를 대상으로하여 보안 패치가 미비한 AP들에 대한 판단을 가능하게 한다.
+- 폐쇄망에 있는 AP를 대상으로하여 보안 패치가 미비한 AP들에 대한 보안 수준을 측정한다.
 
 ## 연구 배경
 
