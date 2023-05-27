@@ -3,7 +3,7 @@
 ### 팀 구성
 <div align="center">
   
-|[윤지현](https://github.com/jhYun505)|[박근우](https://github.com/orgs/CNU-WAVE/people/emptiness123)|[박시준](https://github.com/orgs/CNU-WAVE/people/CanSJun)
+|[윤지현](https://github.com/jhYun505)|[박근우](https://github.com/emptiness123)|[박시준](https://github.com/CanSJun)
 |:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/81208791?v=4" width="120">|<img src="https://avatars.githubusercontent.com/u/37283262?v=4" width="120">|<img src="https://avatars.githubusercontent.com/u/98388286?v=4" width="120">|
 |팀장|팀원|팀원|
