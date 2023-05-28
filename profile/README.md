@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./image/WAVE(NoBackground).png" width="200" align="center"> 
+  <img src="https://github.com/CNU-WAVE/.github/blob/main/profile/image/WAVE(NoBackground).png?raw=true" width="200" align="center"> 
   
   ## WAVE: Wireless AP Vulnerability Examinatior
  
