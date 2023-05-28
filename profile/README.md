@@ -30,7 +30,7 @@
 ```
 Language: Python(3.11.2) / C++
 OS: Kali Linux(2023.1)
-kernel: Linux kali 6.1.0-kali9-amd64
+kernel header: Linux kali 6.1.0-kali9-amd64
 ```
 
 ## 기대 효과
