@@ -1,5 +1,13 @@
 # 무선 네트워크 AP(Access Point) 대상 보안 진단 도구
-## WAVE: Wireless AP Vulnerability Examinatior
+
+<div align="center">
+
+  <img src="./image/WAVE(NoBackground).png" width="200" align="center"> 
+  
+  ## WAVE: Wireless AP Vulnerability Examinatior
+ 
+</div>
+ 
 ### 팀 구성
 <div align="center">
   
